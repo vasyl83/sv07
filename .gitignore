@@ -5,6 +5,7 @@ secrets.conf
 printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
-*.csv
+resonances_x_20240330_231108.csv
+resonances_y_20240330_230251.csv
 *.zip
 secrets.conf
